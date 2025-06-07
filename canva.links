@@ -1,0 +1,24 @@
+systems proyects groups B1
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8" />
+  <title>Mis enlaces a Canva</title>
+  <style>
+    body { font-family: Arial, sans-serif; padding: 20px; background: #f0f4f8; }
+    h1 { color: #2c3e50; }
+    ul { list-style: none; padding: 0; }
+    li { margin: 10px 0; }
+    a { text-decoration: none; color: #2980b9; font-size: 18px; }
+    a:hover { text-decoration: underline; }
+  </style>
+</head>
+<body>
+  <h1>Mis diseños en Canva</h1>
+  <ul>
+    <li><a href="https://www.canva.com/tu-diseno1" target="_blank" rel="noopener">Diseño 1 en Canva</a></li>
+    <li><a href="https://www.canva.com/tu-diseno2" target="_blank" rel="noopener">Diseño 2 en Canva</a></li>
+    <li><a href="https://www.canva.com/tu-diseno3" target="_blank" rel="noopener">Diseño 3 en Canva</a></li>
+  </ul>
+</body>
+</html>
