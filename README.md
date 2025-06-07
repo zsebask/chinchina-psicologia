@@ -1,1 +1,130 @@
 # chinchina-psicologia
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8" />
+  <title>Psychological Social Movements - Chinchiná, Caldas</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      background: #f7f7f7;
+      margin: 0;
+      padding: 0;
+    }
+    header {
+      background: #2b4a6f;
+      color: #fff;
+      padding: 30px 0;
+      text-align: center;
+    }
+    main {
+      max-width: 900px;
+      margin: 30px auto;
+      background: #fff;
+      padding: 30px;
+      border-radius: 10px;
+      box-shadow: 0 2px 8px rgba(0,0,0,0.07);
+    }
+    h2 {
+      color: #2b4a6f;
+    }
+    ul {
+      margin-bottom: 20px;
+    }
+    .highlight {
+      color: #00509e;
+      font-weight: bold;
+    }
+    .info-box {
+      background: #eaf6ff;
+      border-left: 5px solid #2b4a6f;
+      padding: 15px;
+      margin-bottom: 20px;
+      border-radius: 5px;
+    }
+    footer {
+      background: #2b4a6f;
+      color: #fff;
+      text-align: center;
+      padding: 15px 0;
+      margin-top: 40px;
+    }
+    .section-container {
+      display: flex;
+      gap: 40px;
+      flex-wrap: wrap;
+    }
+    .section {
+      flex: 1 1 400px;
+      min-width: 300px;
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>Psychological Social Movements in Chinchiná, Caldas</h1>
+  </header>
+  <main>
+    <div class="section-container">
+      <!-- English Section -->
+      <section class="section" lang="en">
+        <h2>What are Psychological Social Movements?</h2>
+        <p>
+          These are changes in how people feel and act in a community. They include problems like sadness, fear, violence, and drug use.
+        </p>
+
+        <h2>Data and Percentages in Chinchiná, Caldas</h2>
+        <div class="info-box">
+          <ul>
+            <li><span class="highlight">51.4%</span> of people have health insurance with EPS Salud Total.</li>
+            <li>There are <span class="highlight">23.4</span> young people (15-29 years old) and <span class="highlight">12.2</span> older adults (65+) per 100 people.</li>
+            <li><span class="highlight">84.6%</span> of mental health care in Caldas is for mental and behavior disorders.</li>
+            <li>The main problems are sadness (depression), fear (anxiety), bipolar disorder, and drug use.</li>
+          </ul>
+        </div>
+
+        <h2>Where to Get Help?</h2>
+        <ul>
+          <li><b>Psychology services:</b> You can get help in person or online without a doctor's referral.</li>
+          <li><b>Hospitals and EPS:</b> They offer mental health care, including psychiatry by telemedicine.</li>
+          <li><b>Private psychologists:</b> They offer therapy for individuals, families, and couples, in person or online.</li>
+        </ul>
+        <div class="info-box">
+          <b>Tip:</b> Look for psychologists in Chinchiná online or ask your EPS or local hospital for help.
+        </div>
+      </section>
+
+      <!-- Spanish Section -->
+      <section class="section" lang="es">
+        <h2>¿Qué son los movimientos psicológicos sociales?</h2>
+        <p>
+          Son cambios en cómo las personas sienten y actúan en una comunidad. Incluyen problemas como tristeza, miedo, violencia y consumo de drogas.
+        </p>
+
+        <h2>Datos y porcentajes en Chinchiná, Caldas</h2>
+        <div class="info-box">
+          <ul>
+            <li><span class="highlight">51,4%</span> de las personas están afiliadas a la EPS Salud Total.</li>
+            <li>Hay <span class="highlight">23,4</span> jóvenes (15-29 años) y <span class="highlight">12,2</span> adultos mayores (65+) por cada 100 personas.</li>
+            <li><span class="highlight">84,6%</span> de la atención en salud mental en Caldas es por trastornos mentales y del comportamiento.</li>
+            <li>Los principales problemas son tristeza (depresión), miedo (ansiedad), trastorno bipolar y consumo de sustancias.</li>
+          </ul>
+        </div>
+
+        <h2>¿Dónde se puede manejar la salud psicológica?</h2>
+        <ul>
+          <li><b>Servicios de psicología:</b> Puedes recibir ayuda presencial o en línea sin necesidad de remisión médica.</li>
+          <li><b>Hospitales y EPS:</b> Ofrecen atención en salud mental, incluyendo psiquiatría por telemedicina.</li>
+          <li><b>Psicólogos privados:</b> Ofrecen terapia individual, familiar y de pareja, presencial o en línea.</li>
+        </ul>
+        <div class="info-box">
+          <b>Recomendación:</b> Busca psicólogos en Chinchiná en línea o consulta en tu EPS u hospital local.
+        </div>
+      </section>
+    </div>
+  </main>
+  <footer>
+    &copy; 2025 Information for the community of Chinchiná, Caldas.
+  </footer>
+</body>
+</html>
