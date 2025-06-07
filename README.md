@@ -16,7 +16,7 @@
 <body>
   <h1></h1>
   <ul>
-    <li><a href="https://www.canva.com/design/DAGnENNxYO8/v6mkIt9B6fGs09-_iwG4AQ/edit?utm_content=DAGnENNxYO8&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton" target="_blank" rel="noopener"> mental health in social media</a></li>
+    <li><a href="https://www.canva.com/design/DAGnENNxYO8/v6mkIt9B6fGs09-_iwG4AQ/edit?utm_content=DAGnENNxYO8&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton" target="_blank" rel="noopener"> Mental health in social media</a></li>
     <li><a href="https://www.canva.com/tu-diseno2" target="_blank" rel="noopener">Diseño 2 en Canva</a></li>
     <li><a href="https://www.canva.com/tu-diseno3" target="_blank" rel="noopener">Diseño 3 en Canva</a></li>
   </ul>
