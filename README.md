@@ -14,7 +14,7 @@
   </style>
 </head>
 <body>
-  <h1>Mis diseños en Canva</h1>
+  <h1></h1>
   <ul>
     <li><a href="https://www.canva.com/tu-diseno1" target="_blank" rel="noopener">Diseño 1 en Canva</a></li>
     <li><a href="https://www.canva.com/tu-diseno2" target="_blank" rel="noopener">Diseño 2 en Canva</a></li>
